@@ -60,7 +60,7 @@ const Home = () => {
             </p>
           </div>
           <Link 
-            to="/detection" 
+            to="/detect" 
             className="mt-6 inline-block bg-white text-black py-3 px-6 rounded-lg shadow-md hover:bg-black hover:text-white focus:outline-none focus:ring-4 focus:ring-blue-300 transition-transform transform hover:scale-105">
             Learn More
           </Link>
