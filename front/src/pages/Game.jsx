@@ -187,7 +187,7 @@ const Game = () => {
         <div className="text-center mt-12">
           <Link
             to="/"
-            className="inline-block bg-blue-400 text-white py-2 px-4 rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-4 focus:ring-blue-300 transition-transform transform hover:scale-105"
+            className="inline-block bg-green-600 text-white py-2 px-4 rounded-lg shadow-md hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-blue-300 transition-transform transform hover:scale-105"
           >
             Back to Home
           </Link>
