@@ -4,13 +4,13 @@ import backgroundImage from '../assets/bg.jpg';
 
 const Home = () => {
   return (
-    <div>
-
+    
+    <div className="mt-2 p-8 mx-10 items-center">
       <div className="absolute inset-0">
         <img
           src={backgroundImage}
           alt="Background"
-          className="absolute inset-0 object-cover w-full h-full"
+          className="object-cover w-full h-full"
         />
       </div>
 
